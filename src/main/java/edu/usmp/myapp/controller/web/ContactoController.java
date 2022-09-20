@@ -1,4 +1,4 @@
-package edu.usmp.myapp.controller;
+package edu.usmp.myapp.controller.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -25,7 +25,6 @@ public class Producto {
     private Integer id;
     private String descripcion;
     private BigDecimal precio;
-    
     @Temporal(TemporalType.DATE)
     private Date dueDate;
     private String imageFileName;
