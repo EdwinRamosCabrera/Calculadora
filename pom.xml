@@ -108,8 +108,14 @@
 			<version>3.0.0</version>
 		</dependency>
 
-		<!-- test-->
+	<!-- sengrid -->
+		<dependency>
+    		<groupId>com.sendgrid</groupId>
+    		<artifactId>sendgrid-java</artifactId>
+   			 <version>4.9.3</version>
+		</dependency>
 
+	<!-- test-->
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
